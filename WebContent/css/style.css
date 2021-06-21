@@ -1,0 +1,83 @@
+@charset "EUC-KR";
+
+.footer {
+	background-color: grey;
+}
+
+
+
+html, body {
+	margin: 0;
+	overflow: scroll;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	margin: auto;
+}
+
+.col-md-offset-1, .col-md-offset-2 {
+	margin-left: 16.66666667%;
+}
+
+.col-md-offset-10 {
+	margin-left: 86.66666667%;
+}
+
+.col-md-offset-3 {
+	margin-left: 25%;
+}
+
+.title {
+	background-color: transparent;
+	border: none;
+	width: 150px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.new_title{
+background-color: transparent;
+	border: none;
+	width: 100px;
+	text-align: left;
+}
+.img_button {
+	padding-top: 50px;
+	text-align: right;
+}
+
+.input-file-button {
+	display: inline-block;
+	padding: .5em .75em;
+	color: #999;
+	font-size: inherit;
+	line-height: normal;
+	vertical-align: middle;
+	background-color: #fdfdfd;
+	cursor: pointer;
+	border: 1px solid #ebebeb;
+	border-bottom-color: #e2e2e2;
+	border-radius: .25em;
+}
+
+#image {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	border: 0;
+}
+.subheading{
+	opacity: 0.5;
+	background-color: transparent;
+	border: none;
+	width: 100px;
+}
+.new_subheading{
+	width: 150px;
+}
+
