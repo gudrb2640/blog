@@ -1,6 +1,6 @@
 # T-blog
 
----
+
 
 ## 프로젝트 소개
 - 프로그래밍 시작 후 처음 만든 프로젝트입니다.
@@ -26,7 +26,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 기능
----
+
 ### 회원가입 , 수정
 
 ---
