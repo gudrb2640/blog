@@ -68,4 +68,4 @@ SMTP를 사용했으며 이메일 인증시 가입 가능합니다.
 
 Credits: [ghyeonggyu](https://github.com/gudrb2640)
 
-Last Edited on: 06/09/2021
+Last Edited on: 07/09/2021
